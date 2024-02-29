@@ -2591,7 +2591,7 @@ textarea.form-control {
   height: auto;
 }
 input[type="search"] {
-  -webkit-appearance: none;
+  webkit-appearance: none;
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   input[type="date"],
@@ -5711,7 +5711,7 @@ a.list-group-item-danger.active:focus {
   opacity: .5;
 }
 button.close {
-  -webkit-appearance: none;
+  webkit-appearance: none;
   padding: 0;
   cursor: pointer;
   background: transparent;
